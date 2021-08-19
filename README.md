@@ -9,7 +9,7 @@ Based on box and whisker plot, musical campaigns in GB, goal has a higher range,
  ---
  
  
-Line graph shows the amount of different outcomes spread out by each month. If Louise wants to start a theater campaign, according to analysis report, May has the highest success outcomes in history, and this is followed by June and July. But if we were to look into the failed numbers, it is obvious that May would be the most ideal month to start the campaign because number of failures are close in May, June and July.
+Line graph shows the amount of different outcomes spread out by each month. If Louise wants to start a theater campaign, according to analysis report, May has the highest success outcomes in history, and this is followed by June and July. But if we were to look into the failed numbers, it is obvious that May would be the most ideal month to start the campaign because number of failures are close in May, June and July.(Canceled cases are relativesly small, thus in my analysis we will be disregarding them for easier computation)
 
 Assume success is positive 1, while fail is negative 1. Calculation gives us the followings: 
 - May: 111 - 52 = 59
